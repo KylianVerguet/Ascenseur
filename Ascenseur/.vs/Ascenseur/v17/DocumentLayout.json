@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|c:\\users\\kylia\\onedrive\\documents\\github\\ascenseur\\ascenseur\\ascenseur\\ascenseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|solutionrelative:ascenseur\\ascenseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|c:\\users\\kylia\\onedrive\\documents\\github\\ascenseur\\ascenseur\\ascenseur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|solutionrelative:ascenseur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|c:\\users\\kylia\\onedrive\\documents\\github\\ascenseur\\ascenseur\\ascenseur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3858E3BE-CBF4-4CB1-BE10-FF3DF2A9EB59}|Ascenseur\\Ascenseur.csproj|solutionrelative:ascenseur\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,11 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ascenseur.cs",
+              "DocumentMoniker": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Ascenseur.cs",
+              "RelativeDocumentMoniker": "Ascenseur\\Ascenseur.cs",
+              "ToolTip": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Ascenseur.cs*",
+              "RelativeToolTip": "Ascenseur\\Ascenseur.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:58:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Form1.cs",
+              "RelativeDocumentMoniker": "Ascenseur\\Form1.cs",
+              "ToolTip": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Form1.cs*",
+              "RelativeToolTip": "Ascenseur\\Form1.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwCcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:35:08.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Form1.cs",
               "RelativeDocumentMoniker": "Ascenseur\\Form1.cs",
-              "ToolTip": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Form1.cs [Design]",
-              "RelativeToolTip": "Ascenseur\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\kylia\\OneDrive\\Documents\\GitHub\\Ascenseur\\Ascenseur\\Ascenseur\\Form1.cs [Design]*",
+              "RelativeToolTip": "Ascenseur\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T14:18:17.051Z",
               "EditorCaption": " [Design]"

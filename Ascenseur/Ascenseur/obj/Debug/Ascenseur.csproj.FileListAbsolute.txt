@@ -1,0 +1,10 @@
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\bin\Debug\Ascenseur.exe.config
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\bin\Debug\Ascenseur.exe
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\bin\Debug\Ascenseur.pdb
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.csproj.AssemblyReference.cache
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.Form1.resources
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.Properties.Resources.resources
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.csproj.GenerateResource.cache
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.csproj.CoreCompileInputs.cache
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.exe
+C:\Users\kylia\OneDrive\Documents\GitHub\Ascenseur\Ascenseur\Ascenseur\obj\Debug\Ascenseur.pdb
